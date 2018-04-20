@@ -1,0 +1,49 @@
+body {
+background-color: lightblue
+}
+
+h1{
+  text-align: center;
+  font-size: 70px;
+  font-family: monospace;
+}
+img{
+  border-radius: 70%;
+  width: 10%;
+  height: 20%;
+  align: left;
+}
+
+  h3{
+  font-size: 50px
+  text-align: center;
+}
+
+table{
+border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.www{
+  color: Red;
+  align-content: center;
+}
+
+.offset{
+  text-align: center;
+  text-decoration: underline;
+}
